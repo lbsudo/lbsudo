@@ -9,18 +9,19 @@
 
 
 <p align="center">
-<a href="https://github.com/lbsudo?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lbsudo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/lbsudo?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sudolb?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a></p>
-		 <h3>
-			<p>
-				<a href="https://www.linkedin.com/in/lbsudo/"><img align="left" width="30" alt="linkedin" style="padding-right:10px;" src="https://cdn.simpleicons.org/linkedin/#0A66C2" /></a>
-			</p>
-			<p>
-			<a href="https://hashnode.com/@lbsudo"><img align="left" width="30" alt="linkedin" style="padding-left:10px;" src="https://cdn.simpleicons.org/hashnode/#2962FF" /></a>
-			</p>
-		</h3>
+<a href="https://github.com/lbsudo?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lbsudo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<a href="https://github.com/lbsudo?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sudolb?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a></p>
+<h3>
+<p>
+<a href="https://www.linkedin.com/in/lbsudo/"><img align="left" width="30" alt="linkedin" style="padding-right:10px;" src="https://cdn.simpleicons.org/linkedin/#0A66C2" /></a>
+</p>
+<p>
+<a href="https://hashnode.com/@lbsudo"><img align="left" width="30" alt="linkedin" style="padding-left:10px;" src="https://cdn.simpleicons.org/hashnode/#2962FF" /></a>
+</p>
+</h3>
+		
+<br/>
+<br/>
 
 
 
@@ -28,7 +29,7 @@
 
 - 🔭 I’m currently working on **Web Development Using/Building APIs*
 
-- 🌱 I’m currently learning **Rust <img align="center" width="30" alt="rust" style="padding-right:10px;" src="https://cdn.simpleicons.org/rust/#E34F26" />
+- 🌱 I’m currently learning **Rust <img align="center" width="30" alt="rust" style="padding-right:10px;" src="https://cdn.simpleicons.org/rust/#E34F26" />**
 
 - 🤝 I’m looking to collaborate on **Business & OpenSource Projects**
 
