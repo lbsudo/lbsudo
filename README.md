@@ -29,7 +29,7 @@
 
 - 🔭 I’m currently working on **Web Development Using/Building APIs*
 
-- 🌱 I’m currently learning **Next.js 13** /app routing <img align="center" width="30" alt="rust" style="padding-right:10px;" src="https://cdn.simpleicons.org/next.js/#000000" />**
+- 🌱 I’m currently learning **Next.js 13** /app routing <img align="center" width="30" alt="rust" style="padding-right:10px;" src="https://cdn.simpleicons.org/next.js/#ffffff" />
 
 - 🤝 I’m looking to collaborate on **Business & OpenSource Projects**
 
