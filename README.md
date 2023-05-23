@@ -55,18 +55,15 @@
 ### 🧰 Frameworks and libraries
 ---
 <img align="left" width="30" alt="react" style="padding-right:10px;" src="https://cdn.simpleicons.org/react/#61DAFB" />
-<img align="left" width="30" alt="react" style="padding-right:10px;" src="https://cdn.simpleicons.org/astro/#FF5D01" />
 <img align="left" width="30" alt="nextjs" style="padding-right:10px;" src="https://cdn.simpleicons.org/next.js/white" />
+<img align="left" width="30" alt="react" style="padding-right:10px;" src="https://cdn.simpleicons.org/astro/#FF5D01" />
 <img align="left" width="30" alt="tailwindcss" style="padding-right:10px;" src="https://cdn.simpleicons.org/tailwindcss/#06B6D4" />
-<img align="left" width="30" alt="express" style="padding-right:10px;" src="https://cdn.simpleicons.org/express/white" />
 <img align="left" width="30" alt="scss" style="padding-right:10px;" src="https://cdn.simpleicons.org/sass/#CC6699" />
 <img align="left" width="30" alt="material-ui" style="padding-right:10px;" src="https://cdn.simpleicons.org/mui/#007FFF" />
-<img align="left" width="30" alt="styled-components" style="padding-right:10px;" src="https://cdn.simpleicons.org/styledcomponents/#DB7093" />
-<img align="left" width="30" alt="wordpress" style="padding-right:10px;" src="https://cdn.simpleicons.org/wordpress/white" />
 <br/>
 <br/>
 
-### 🗄️ Databases and cloud hosting
+### 🗄️ Databases, CMS, and cloud hosting
 ---
 <img align="left" width="30" alt="notion" style="padding-right:10px;" src="https://cdn.simpleicons.org/notion/white" />
 <img align="left" width="30" alt="vercel" style="padding-right:10px;" src="https://cdn.simpleicons.org/vercel/white" />
@@ -74,6 +71,8 @@
 <img align="left" width="30" alt="postgresql" style="padding-right:10px;" src="https://cdn.simpleicons.org/postgresql/#4169E1" />
 <img align="left" width="30" alt="mongoDb" style="padding-right:10px;" src="https://cdn.simpleicons.org/mongodb/#47A248" />
 <img align="left" width="30" alt="replit" style="padding-right:10px;" src="https://cdn.simpleicons.org/netlify/#F26207" />
+<img align="left" width="30" alt="styled-components" style="padding-right:10px;" src="https://cdn.simpleicons.org/squarespace/white" />
+<img align="left" width="30" alt="wordpress" style="padding-right:10px;" src="https://cdn.simpleicons.org/wordpress/white" />
 <br/>
 <br/>
 
@@ -125,5 +124,5 @@
 #
 
 <details>
- <summary><h3>👨🏾‍💻My Journey</h3></summary>
-   It started with linux stemming from the desire to customize my desktop to the max was the beginning as I learning scripting I gained interest for web based programming languages. The language that I chose to excel in is JavaScript and from there I haven't looked back.
+ <summary><h3>👨🏾‍💻 Who is LB SUDO</h3></summary>
+   I'm a self taught programmer breaking things to make something even better.
