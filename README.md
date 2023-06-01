@@ -95,7 +95,6 @@
 <img align="left" width="30" alt="libreoffice" style="padding-right:10px;" src="https://cdn.simpleicons.org/libreoffice/#18A303" />
 
 
----
 <br/> 
 <br/>
 <br/>
