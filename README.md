@@ -12,14 +12,15 @@
 <a href="https://github.com/lbsudo?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lbsudo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <a href="https://github.com/lbsudo?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sudolb?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a></p>
 <h3>
-<p>
-<a href="https://www.linkedin.com/in/lbsudo/"><img align="left" width="30" alt="linkedin" style="padding-right:10px;" src="https://cdn.simpleicons.org/linkedin/#0A66C2" /></a>
-</p>
-<p>
-<a href="https://hashnode.com/@lbsudo"><img align="left" width="30" alt="linkedin" style="padding-left:10px;" src="https://cdn.simpleicons.org/hashnode/#2962FF" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/lbsudo/"><img width="30" alt="linkedin" style="padding-right:10px;" src="https://cdn.simpleicons.org/linkedin/#0A66C2" /></a>
+<a href="https://hashnode.com/@lbsudo"><img width="30" alt="Hashnode" style="padding-left:10px;" src="https://cdn.simpleicons.org/hashnode/#2962FF" /></a>
 </p>
 </h3>
-		
+<p align="center">
+<a href="https://app.daily.dev/lbSudo"><img src="https://api.daily.dev/devcards/c00027d9077f44b3969e4a0150809c60.png?r=45y" width="400" alt="Lawrence Brown's Dev Card"/></a>
+</p>
+
 <br/>
 <br/>
 
