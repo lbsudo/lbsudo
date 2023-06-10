@@ -18,7 +18,7 @@
 </p>
 </h3>
 <p align="center">
-<a href="https://app.daily.dev/lbSudo"><img src="https://github.com/lbsudo/lbsudo/blob/main/devcard.svg" width="400" alt="Lawrence Brown's Dev Card"/></a>
+<a href="https://app.daily.dev/lbsudo"><img src="https://github.com/lbsudo/lbsudo/blob/main/devcard.svg" width="400" alt="Lawrence Brown's Dev Card"/></a>
 </p>
 
 <br/>
