@@ -17,14 +17,8 @@
 <a href="https://hashnode.com/@lbsudo"><img width="30" alt="Hashnode" style="padding-left:10px;" src="https://cdn.simpleicons.org/hashnode/#2962FF" /></a>
 </p>
 </h3>
-<p align="center">
-<a href="https://app.daily.dev/lbsudo"><img src="https://github.com/lbsudo/lbsudo/blob/main/devcard.svg" width="400" alt="Lawrence Brown's Dev Card"/></a>
-</p>
-
 <br/>
 <br/>
-
-
 
 ## 🙌🏾 About Me
 
@@ -123,7 +117,9 @@
 
 <br/>
 
-#
+<p align="center">
+<a href="https://app.daily.dev/lbsudo"><img src="https://github.com/lbsudo/lbsudo/blob/main/devcard.svg" width="400" alt="Lawrence Brown's Dev Card"/></a>
+</p>
 
 <details>
  <summary><h3>👨🏾‍💻 Who is LB SUDO</h3></summary>
