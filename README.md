@@ -40,18 +40,18 @@
 
 <p align="left">
 <a href="https://www.instagram.com/lbdluxe/">
-<img src="img/global-line.svg#gh-light-mode-only" style="padding-right:9;" width="300" height="300">
+<img src="img/global-line.svg#gh-light-mode-only" style="padding-right:9;" width="40" height="40">
 <img src="img/global-line-white.svg#gh-dark-mode-only" style="padding-right:9;" width="40" height="40">
 </a>
 <a href="https://www.instagram.com/lbdluxe/">
-<img src="img/youtube-line.svg#gh-light-mode-only" style="padding-right:9;" width="300" height="300">
+<img src="img/youtube-line.svg#gh-light-mode-only" style="padding-right:9;" width="40" height="40">
 <img src="img/youtube-line-white.svg#gh-dark-mode-only" style="padding-right:9;" width="40" height="40">
 <a href="https://www.instagram.com/lbdluxe/">
-<img src="img/linkedin-box-line.svg#gh-light-mode-only" style="padding-right:9;" width="300" height="300">
+<img src="img/linkedin-box-line.svg#gh-light-mode-only" style="padding-right:9;" width="40" height="40">
 <img src="img/linkedin-box-line-white.svg#gh-dark-mode-only" style="padding-right:9;" width="40" height="40">
 </a>
 <a href="https://www.instagram.com/lbdluxe/">
-<img src="img/instagram-line.svg#gh-light-mode-only" style="padding-right:9;" width="300" height="300">
+<img src="img/instagram-line.svg#gh-light-mode-only" style="padding-right:9;" width="40" height="40">
 <img src="img/instagram-line-white.svg#gh-dark-mode-only" style="padding-right:9;" width="40" height="40">
 </a>
 
