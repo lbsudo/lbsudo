@@ -13,7 +13,6 @@
 </p>
 
 <div align="center">
-
 <br>
   <img src="https://github-readme-stats.vercel.app/api?username=lbsudo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lbsudo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
@@ -24,13 +23,13 @@
 
 - 🔭 I’m currently working on *Web Dev Essentials Course*
 
-- 🌱 I’m currently learning: Advanced Pyhon
+- 🌱 I’m currently learning: Advanced Python
 
 - 🤝 I’m looking to collaborate with Other digital Creators
 
 - 🎯 2024 Goals: Dive deep into Web3
   
-- 🚶🏽‍♂️ About me: Love to play piano, guitar and produce music
+- 🚶🏽‍♂️ About me: I love to play piano, and guitar and produce music
   
 - ✍🏽Checkout my blog: <a href="https://dev.to/lbsudo"> My Blog</a>
 
@@ -39,6 +38,7 @@
 ### Connect with me:
 
 <p align="left">
+  
 <a href="https://www.instagram.com/lbdluxe/">
 <img src="img/global-line.svg#gh-light-mode-only" style="padding-right:9;" width="40" height="40">
 <img src="img/global-line-white.svg#gh-dark-mode-only" style="padding-right:9;" width="40" height="40">
@@ -50,10 +50,11 @@
 <img src="img/linkedin-box-line.svg#gh-light-mode-only" style="padding-right:9;" width="40" height="40">
 <img src="img/linkedin-box-line-white.svg#gh-dark-mode-only" style="padding-right:9;" width="40" height="40">
 </a>
-<a href="https://www.instagram.com/lbdluxe/">
-<img src="img/instagram-line.svg#gh-light-mode-only" style="padding-right:9;" width="40" height="40">
+
 <img src="img/instagram-line-white.svg#gh-dark-mode-only" style="padding-right:9;" width="40" height="40">
-</a>
+<img src="img/instagram-line.svg#gh-light-mode-only" style="padding-right:9;" width="40" height="40">
+
+
 
 </p>
 
@@ -63,8 +64,8 @@
 <img align="left" width="30" alt="Markdown" style="padding-right:10px;" src="https://cdn.simpleicons.org/markdown/white#gh-dark-mode-only" />
 
 <img align="left" width="30" alt="bash" style="padding-right:10px;" src="https://cdn.simpleicons.org/gnubash/#4EAA25" />
-<img align="left" width="30" alt="html" style="padding-right:10px;" src="https://cdn.simpleicons.org/html5/#E34F26" />
-<img align="left" width="30" alt="css" style="padding-right:10px;" src="https://cdn.simpleicons.org/css3/#1572B6" />
+<img align="left" width="30" alt="HTML" style="padding-right:10px;" src="https://cdn.simpleicons.org/html5/#E34F26" />
+<img align="left" width="30" alt="CSS" style="padding-right:10px;" src="https://cdn.simpleicons.org/css3/#1572B6" />
 <img align="left" width="30" alt="JavaScript" style="padding-right:10px;" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />
 <img align="left" width="30" alt="typescript" style="padding-right:10px;" src="https://cdn.simpleicons.org/typescript#3178C6" />
 <img align="left" width="30" alt="python" style="padding-right:10px;" src="https://cdn.simpleicons.org/python/#3776AB" />
@@ -72,7 +73,7 @@
 <br/>
 <br/>
 
-### 🧰 Frameworks, libraries and tools:
+### 🧰 Frameworks, libraries, and tools:
 ---
 <img align="left" width="30" alt="react" style="padding-right:10px;" src="https://cdn.simpleicons.org/react/#61DAFB" />
 <img align="left" width="30" alt="nextjs" style="padding-right:10px;" src="https://cdn.simpleicons.org/next.js/white#gh-dark-mode-only" />
