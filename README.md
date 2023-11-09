@@ -35,38 +35,38 @@
 
 [comment]: <> (- 👨🏾‍💻 Learn more about me at **)
 
-### Connect with me:
+## Connect with me:
 
 <p align="left">
 <!-- Website -->
 <a href="https://www.instagram.com/lbdluxe#gh-light-mode-only">
-<img src="img/global-line.svg" style="padding-right:9;" width="40" height="40">
+<img src="img/global-line.svg" style="padding-right:9;" width="35" height="35">
 </a>
 <a href="https://www.instagram.com/lbdluxe#gh-dark-mode-only">
-<img src="img/global-line-white.svg" style="padding-right:9;" width="40" height="40">
+<img src="img/global-line-white.svg" style="padding-right:9;" width="35" height="35">
 </a>
   
 <!-- Youtube-->
 
 <a href="https://www.youtbue.com/lbdluxe#gh-light-mode-only">
-<img src="img/youtube-line.svg" style="padding-right:9;" width="40" height="40">
+<img src="img/youtube-line.svg" style="padding-right:9;" width="35" height="35">
 </a>
 <a href="https://www.youtube.com/lbdluxe#gh-dark-mode-only">
-<img src="img/youtube-line-white.svg" style="padding-right:9;" width="40" height="40">
+<img src="img/youtube-line-white.svg" style="padding-right:9;" width="35" height="35">
 </a>
 <!-- Linked In-->
 <a href="https://www.linkedin.com/in/lbsudo#gh-light-mode-only">
-<img src="img/linkedin-box-line.svg#gh-light-mode-only" style="padding-right:9;" width="40" height="40">
+<img src="img/linkedin-box-line.svg#gh-light-mode-only" style="padding-right:9;" width="35" height="35">
 </a>
 <a href="https://www.linkedin.com/in/lbsudo#gh-dark-mode-only">
-<img src="img/linkedin-box-line-white.svg#gh-dark-mode-only" style="padding-right:9;" width="40" height="40"><a href="https://www.instagram.com/lbdluxe/">
+<img src="img/linkedin-box-line-white.svg#gh-dark-mode-only" style="padding-right:9;" width="35" height="35"><a href="https://www.instagram.com/lbdluxe/">
 </a>
 <!-- Instagram -->
 <a href="https://www.linkedin.com/lbdluxe#gh-light-mode-only">
-<img src="img/instagram-line.svg#gh-light-mode-only" style="padding-right:9;" width="40" height="40">
+<img src="img/instagram-line.svg#gh-light-mode-only" style="padding-right:9;" width="35" height="35">
 </a>
 <a href="https://www.linkedin.com/in/lbdluxe#gh-dark-mode-only">
-<img src="img/instagram-line-white.svg#gh-dark-mode-only" style="padding-right:9;" width="40" height="40">
+<img src="img/instagram-line-white.svg#gh-dark-mode-only" style="padding-right:9;" width="35" height="35">
 </a>
 
 
