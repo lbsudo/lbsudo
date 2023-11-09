@@ -256,3 +256,5 @@ src="https://cdn.simpleicons.org/notion/black#gh-light-mode-only" />
 [comment]: <> (5.🎉 Merged PR **Issue number** in **project link**)
 <!--END_SECTION:activity-->
 </details>
+
+<img src="https://raw.githubusercontent.com/lbsudo/lbsudo/output/snake.svg" alt="Snake animation" />
