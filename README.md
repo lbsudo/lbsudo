@@ -1,8 +1,6 @@
 
 <h1 align="center">✧ Lawrence Brown ✧</h1>
 
-<h2 align="center"><b>👨🏽‍💻 Full-Stack Developer</b></h2>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer%20🖥️;JavaScript%20Lover%20☕;Always%20Learning%20📚&font=Fira%20Code&center=true&width=440&height=45&color=blue&vCenter=true&size=22&pause=500" />
 </p>
@@ -11,29 +9,24 @@
 <p align="center">
 <a href="https://github.com/lbsudo?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lbsudo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <a href="https://github.com/lbsudo?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sudolb?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a></p>
-<h3>
-<p align="center">
+
+## 💫I'm a Software Engineer, Producer, Graphic Designer
+
+- 🔭 I’m currently working on *A Web Dev Essentials Course*
+
+- 🌱 I’m currently learning 
+
+- 🤝 I’m looking to collaborate with Other digital Creators
+
+[comment]: <> (- 👨🏾‍💻 Learn more about me at **)
+
+## Connect with me:
+<p align="left">
 <a href="https://www.linkedin.com/in/lbsudo/"><img width="30" alt="linkedin" style="padding-right:10px;" src="https://cdn.simpleicons.org/linkedin/#0A66C2" /></a>
 <a href="https://hashnode.com/@lbsudo"><img width="30" alt="Hashnode" style="padding-left:10px;" src="https://cdn.simpleicons.org/hashnode/#2962FF" /></a>
 </p>
-</h3>
-<br/>
-<br/>
 
-## 🙌🏾 About Me
-
-- 🔭 I’m currently working on **Web Development Using/Building APIs**
-
-- 🌱 I’m currently learning **(ISC)2 CC Certification** <img align="center" width="15" alt="rust" style="padding-right:10px;" src="https://img.icons8.com/ios-glyphs/30/ffffff/lock--v1.png" />
-
-- 🤝 I’m looking to collaborate on **Business & OpenSource Projects**
-
-- 👨🏾‍💻 Learn more about me at **[My Portfolio Website](https://lbportfolio.vercel.app/)**
-
-- 📫 How to reach me **lbsudo100@gmail.com**
-
-## 🚀 Languages and Tools:
-### 👨🏾‍💻 Programming and markup languages
+### 🚀 Languages:
 ---
 <img align="left" width="30" alt="Markdown" style="padding-right:10px;" src="https://cdn.simpleicons.org/markdown/white" />
 <img align="left" width="30" alt="bash" style="padding-right:10px;" src="https://cdn.simpleicons.org/gnubash/#4EAA25" />
@@ -42,13 +35,13 @@
 <img align="left" width="30" alt="JavaScript" style="padding-right:10px;" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />
 <img align="left" width="30" alt="typescript" style="padding-right:10px;" src="https://cdn.simpleicons.org/typescript#3178C6" />
 <img align="left" width="30" alt="python" style="padding-right:10px;" src="https://cdn.simpleicons.org/python/#3776AB" />
-<img align="left" width="30" alt="nodejs" style="padding-right:10px;" src="https://cdn.simpleicons.org/node.js/#339933" />
 <img align="left" width="30" alt="php" style="padding-right:10px;" src="https://cdn.simpleicons.org/php/#777BB4" />
 <br/>
 <br/>
 
-### 🧰 Frameworks and libraries
+### 🧰 Frameworks, libraries and tools:
 ---
+<img align="left" width="30" alt="nodejs" style="padding-right:10px;" src="https://cdn.simpleicons.org/node.js/#339933" />
 <img align="left" width="30" alt="react" style="padding-right:10px;" src="https://cdn.simpleicons.org/react/#61DAFB" />
 <img align="left" width="30" alt="nextjs" style="padding-right:10px;" src="https://cdn.simpleicons.org/next.js/white" />
 <img align="left" width="30" alt="react" style="padding-right:10px;" src="https://cdn.simpleicons.org/astro/#FF5D01" />
