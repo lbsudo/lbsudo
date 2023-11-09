@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Software-Engineer%20🖥️;JavaScript%20Monk%20☕;Always%20Learning%20📚&font=Fira%20Code&center=true&width=440&height=45&color=blue&vCenter=true&size=22&pause=500" />
 </p>
 <p align="center">
-<a href="https://github.com/lbsudo?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/followers/lbsudo?logo=github&logoColor=red&style=for-the-badge"/></a>  
+<a href="https://github.com/lbsudo?tab=repositories&sort=stargazers"><img alt="total followers" title="Total followers on GitHub" src="https://img.shields.io/github/followers/lbsudo?logo=github&logoColor=red&style=for-the-badge"/></a>  
 <a href="https://github.com/lbsudo?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/lbsudo?logo=github&logoColor=red&style=for-the-badge"/>
 </a>
 </p>
@@ -38,22 +38,36 @@
 ### Connect with me:
 
 <p align="left">
+<!-- Website -->
+<a href="https://www.instagram.com/lbdluxe#gh-light-mode-only">
+<img src="img/global-line.svg" style="padding-right:9;" width="40" height="40">
+</a>
+<a href="https://www.instagram.com/lbdluxe#gh-dark-mode-only">
+<img src="img/global-line-white.svg" style="padding-right:9;" width="40" height="40">
+</a>
   
-<a href="https://www.instagram.com/lbdluxe/">
-<img src="img/global-line.svg#gh-light-mode-only" style="padding-right:9;" width="40" height="40">
-<img src="img/global-line-white.svg#gh-dark-mode-only" style="padding-right:9;" width="40" height="40">
+<!-- Youtube-->
+
+<a href="https://www.youtbue.com/lbdluxe#gh-light-mode-only">
+<img src="img/youtube-line.svg" style="padding-right:9;" width="40" height="40">
 </a>
-<a href="https://www.instagram.com/lbdluxe/">
-<img src="img/youtube-line.svg#gh-light-mode-only" style="padding-right:9;" width="40" height="40">
-<img src="img/youtube-line-white.svg#gh-dark-mode-only" style="padding-right:9;" width="40" height="40">
-<a href="https://www.instagram.com/lbdluxe/">
+<a href="https://www.youtube.com/lbdluxe#gh-dark-mode-only">
+<img src="img/youtube-line-white.svg" style="padding-right:9;" width="40" height="40">
+</a>
+<!-- Linked In-->
+<a href="https://www.linkedin.com/in/lbsudo#gh-light-mode-only">
 <img src="img/linkedin-box-line.svg#gh-light-mode-only" style="padding-right:9;" width="40" height="40">
-<img src="img/linkedin-box-line-white.svg#gh-dark-mode-only" style="padding-right:9;" width="40" height="40">
 </a>
-
-<img src="img/instagram-line-white.svg#gh-dark-mode-only" style="padding-right:9;" width="40" height="40">
+<a href="https://www.linkedin.com/in/lbsudo#gh-dark-mode-only">
+<img src="img/linkedin-box-line-white.svg#gh-dark-mode-only" style="padding-right:9;" width="40" height="40"><a href="https://www.instagram.com/lbdluxe/">
+</a>
+<!-- Instagram -->
+<a href="https://www.linkedin.com/lbdluxe#gh-light-mode-only">
 <img src="img/instagram-line.svg#gh-light-mode-only" style="padding-right:9;" width="40" height="40">
-
+</a>
+<a href="https://www.linkedin.com/in/lbdluxe#gh-dark-mode-only">
+<img src="img/instagram-line-white.svg#gh-dark-mode-only" style="padding-right:9;" width="40" height="40">
+</a>
 
 
 </p>
