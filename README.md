@@ -257,4 +257,8 @@ src="https://cdn.simpleicons.org/notion/black#gh-light-mode-only" />
 <!--END_SECTION:activity-->
 </details>
 
+### 
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/lbsudo/lbsudo/output/snake.svg" alt="Snake animation" />
