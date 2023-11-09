@@ -74,9 +74,6 @@
 
 ### 🚀 Languages:
 ---
-<img align="left" width="30" alt="Markdown" style="padding-right:10px;" src="https://cdn.simpleicons.org/markdown/black#gh-light-mode-only" />
-<img align="left" width="30" alt="Markdown" style="padding-right:10px;" src="https://cdn.simpleicons.org/markdown/white#gh-dark-mode-only" />
-
 <img align="left" width="30" alt="bash" style="padding-right:10px;" src="https://cdn.simpleicons.org/gnubash/#4EAA25" />
 <img align="left" width="30" alt="HTML" style="padding-right:10px;" src="https://cdn.simpleicons.org/html5/#E34F26" />
 <img align="left" width="30" alt="CSS" style="padding-right:10px;" src="https://cdn.simpleicons.org/css3/#1572B6" />
@@ -90,16 +87,24 @@
 ### 🧰 Frameworks, libraries, and tools:
 ---
 <img align="left" width="30" alt="react" style="padding-right:10px;" src="https://cdn.simpleicons.org/react/#61DAFB" />
+<a href="https://nextjs.org#gh-dark-mode-only">
 <img align="left" width="30" alt="nextjs" style="padding-right:10px;" src="https://cdn.simpleicons.org/next.js/white#gh-dark-mode-only" />
+</a>
+<a href="https://nextjs.org#gh-light-mode-only">
 <img align="left" width="30" alt="nextjs" style="padding-right:10px;" src="https://cdn.simpleicons.org/next.js/black#gh-light-mode-only" />
+</a>
 
 <img align="left" width="30" alt="astro" style="padding-right:10px;" src="https://cdn.simpleicons.org/solid" />
 <img align="left" width="30" alt="astro" style="padding-right:10px;" src="https://cdn.simpleicons.org/astro" />
 <img align="left" width="30" alt="nodejs" style="padding-right:10px;" src="https://cdn.simpleicons.org/node.js" />
 <img align="left" width="30" alt="tailwindcss" style="padding-right:10px;" src="https://cdn.simpleicons.org/tailwindcss" />
 
+<a href="https://nextui.org/#gh-dark-mode-only">
 <img align="left" width="30" alt="nextui" style="padding-right:10px;" src="https://cdn.simpleicons.org/nextui/white#gh-dark-mode-only" />
+</a>
+<a href="https://nextui.org#gh-light-mode-only">
 <img align="left" width="30" alt="nextui" style="padding-right:10px;" src="https://cdn.simpleicons.org/nextui#gh-light-mode-only" />
+</a>
 
 <img align="left" width="30" alt="scss" style="padding-right:10px;" src="https://cdn.simpleicons.org/sass" />
 <img align="left" width="30" alt="material-ui" style="padding-right:10px;" src="https://cdn.simpleicons.org/mui" />
@@ -113,19 +118,35 @@
 <img align="left" width="30" alt="mongoDb" style="padding-right:10px;" src="https://cdn.simpleicons.org/mongodb/#47A248" />
 <img align="left" width="30" alt="replit" style="padding-right:10px;" src="https://cdn.simpleicons.org/netlify/#F26207" />
 
+<a href="https://vercel.com#gh-dark-mode-only">
 <img align="left" width="30" alt="vercel" style="padding-right:10px;" src="https://cdn.simpleicons.org/vercel/white#gh-dark-mode-only" />
+</a>
+<a href="https://vercel.com#gh-light-mode-only">
 <img align="left" width="30" alt="vercel" style="padding-right:10px;" src="https://cdn.simpleicons.org/vercel/black#gh-light-mode-only" />
+</a>
 
-<img align="left" width="30" alt="styled-components" style="padding-right:10px;" src="https://cdn.simpleicons.org/squarespace/white#gh-dark-mode-only" />
-<img align="left" width="30" alt="styled-components" style="padding-right:10px;" src="https://cdn.simpleicons.org/squarespace/black#gh-light-mode-only" />
+<a href="https://www.squarespace.com/#gh-dark-mode-only">
+<img align="left" width="30" alt="squarespace" style="padding-right:10px;" src="https://cdn.simpleicons.org/squarespace/white#gh-dark-mode-only" />
+</a>
+<a href="https://www.squarespace.com/#gh-light-mode-only">
+<img align="left" width="30" alt="squarespace" style="padding-right:10px;" src="https://cdn.simpleicons.org/squarespace/black#gh-light-mode-only" />
+</a>
 
+<a href="https://wordpress.com#gh-dark-mode-only">
 <img align="left" width="30" alt="wordpress" style="padding-right:10px;" src="https://cdn.simpleicons.org/wordpress/white#gh-dark-mode-only" />
+</a>
+<a href="https://wordpress.com#gh-light-mode-only">
 <img align="left" width="30" alt="wordpress" style="padding-right:10px;" src="https://cdn.simpleicons.org/wordpress/black#gh-light-mode-only" />
+</a>
 
-<img align="left" width="30" alt="notion" style="padding-right:10px;" 
-src="https://cdn.simpleicons.org/notion/black#gh-light-mode-only" />
+<a href="https://www.notion.so/#gh-dark-mode-only">
 <img align="left" width="30" alt="notion" style="padding-right:10px;" 
 src="https://cdn.simpleicons.org/notion/white#gh-dark-mode-only" />
+</a>
+<a href="https://www.notion.so/#gh-light-mode-only">
+<img align="left" width="30" alt="notion" style="padding-right:10px;" 
+src="https://cdn.simpleicons.org/notion/black#gh-light-mode-only" />
+</a>
 <br/>
 <br/>
 
@@ -134,24 +155,39 @@ src="https://cdn.simpleicons.org/notion/white#gh-dark-mode-only" />
 <img align="left" width="30" alt="linux" style="padding-right:10px;" src="https://cdn.simpleicons.org/linux" />
 <img align="left" width="30" alt="archlinux" style="padding-right:10px;" src="https://cdn.simpleicons.org/archlinux/#1793D1" />
 
-<img align="left" width="30" alt="linux" style="padding-right:10px;" src="https://cdn.simpleicons.org/microsoft/white#gh-dark-mode-only" />
-<img align="left" width="30" alt="linux" style="padding-right:10px;" src="https://cdn.simpleicons.org/microsoft/black#gh-light-mode-only" />
+<a href="https://www.microsoft.com/en-us/#gh-dark-mode-only">
+<img align="left" width="30" alt="microsoft" style="padding-right:10px;" src="https://cdn.simpleicons.org/microsoft/white#gh-dark-mode-only" />
+</a>
+<a href="https://www.microsoft.com/en-us/#gh-light-mode-only">
+<img align="left" width="30" alt="microsoft" style="padding-right:10px;" src="https://cdn.simpleicons.org/microsoft/black#gh-light-mode-only" />
+</a>
 
 <img align="left" width="30" alt="neovim" style="padding-right:10px;" src="https://cdn.simpleicons.org/neovim/#57A143" />
 <img align="left" width="30" alt="git" style="padding-right:10px;" src="https://cdn.simpleicons.org/git/#F05032" />
 
-<img align="left" width="30" alt="github" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/black#gh-light-mode-only" />
+<a href="https://www.github.com#gh-dark-mode-only">
 <img align="left" width="30" alt="github" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/white#gh-dark-mode-only" />
+</a>
+<a href="https://www.github.com#gh-light-mode-only">
+<img align="left" width="30" alt="github" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/black#gh-light-mode-only" />
+</a>
 
 
 <img align="left" width="30" alt="adobe" style="padding-right:10px;" src="https://cdn.simpleicons.org/adobe/#FF0000" />
 
+<a href="https://www.gimp.org#gh-dark-mode-only">
 <img align="left" width="30" alt="gimp" style="padding-right:10px;" src="https://cdn.simpleicons.org/gimp/white#gh-dark-mode-only" />
+</a>
+<a href="https://www.gimp.org#gh-light-mode-only">
 <img align="left" width="30" alt="gimp" style="padding-right:10px;" src="https://cdn.simpleicons.org/gimp/black#gh-light-mode-only" />
+</a>
 
-
-<img align="left" width="30" alt="inkscape" style="padding-right:10px;" src="https://cdn.simpleicons.org/inkscape/black#gh-light-mode-only" />
+<a href="https://www.inkscape.org#gh-dark-mode-only">
 <img align="left" width="30" alt="inkscape" style="padding-right:10px;" src="https://cdn.simpleicons.org/inkscape/white#gh-dark-mode-only" />
+</a>
+<a href="https://www.inkscape.org#gh-light-mode-only">
+<img align="left" width="30" alt="inkscape" style="padding-right:10px;" src="https://cdn.simpleicons.org/inkscape/black#gh-light-mode-only" />
+</a>
 
 
 
@@ -174,8 +210,6 @@ src="https://cdn.simpleicons.org/notion/white#gh-dark-mode-only" />
 - [Coming Soon.....]()
 
 <!-- YOUTUBE:END -->
-
-➡️ [My Rumble...](https://youtube.com/lbdluxe)
 
 ➡️ [My Youtube...](https://youtube.com/lbdluxe)
 
