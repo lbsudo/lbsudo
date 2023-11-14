@@ -1,4 +1,4 @@
-<h1 align="center">🌠Lawrence Brown🌠</h1>
+<h1 align="center">Lawrence Brown</h1>
 
 <p align="center">
 <img  height="150" src="https://media.giphy.com/media/3o7TKFRdP871AR61DG/giphy.gif"  />
