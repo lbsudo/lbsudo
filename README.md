@@ -72,129 +72,81 @@
 
 </p>
 
-### 🚀 Languages:
+### Core:
 ---
-<img align="left" width="30" alt="bash" style="padding-right:10px;" src="https://cdn.simpleicons.org/gnubash/#4EAA25" />
-<img align="left" width="30" alt="HTML" style="padding-right:10px;" src="https://cdn.simpleicons.org/html5/#E34F26" />
-<img align="left" width="30" alt="CSS" style="padding-right:10px;" src="https://cdn.simpleicons.org/css3/#1572B6" />
 <img align="left" width="30" alt="JavaScript" style="padding-right:10px;" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />
 <img align="left" width="30" alt="typescript" style="padding-right:10px;" src="https://cdn.simpleicons.org/typescript#3178C6" />
-<img align="left" width="30" alt="python" style="padding-right:10px;" src="https://cdn.simpleicons.org/python/#3776AB" />
 <img align="left" width="30" alt="php" style="padding-right:10px;" src="https://cdn.simpleicons.org/php/#777BB4" />
-<br/>
-<br/>
+<img align="left" width="30" alt="python" style="padding-right:10px;" src="https://cdn.simpleicons.org/python/#3776AB" />
+<img align="left" width="30" alt="python" style="padding-right:10px;" src="https://cdn.simpleicons.org/dart" />
+<img align="left" width="30" alt="git" style="padding-right:10px;" src="https://cdn.simpleicons.org/git/#F05032" />
+</br>
 
-### 🧰 Frameworks, libraries, and tools:
+### Front-End:
 ---
+<img align="left" width="30" alt="HTML" style="padding-right:10px;" src="https://cdn.simpleicons.org/html5/#E34F26" />
+<img align="left" width="30" alt="CSS" style="padding-right:10px;" src="https://cdn.simpleicons.org/css3/#1572B6" />
 <img align="left" width="30" alt="react" style="padding-right:10px;" src="https://cdn.simpleicons.org/react/#61DAFB" />
-<a href="https://nextjs.org#gh-dark-mode-only">
-<img align="left" width="30" alt="nextjs" style="padding-right:10px;" src="https://cdn.simpleicons.org/next.js/white#gh-dark-mode-only" />
-</a>
-<a href="https://nextjs.org#gh-light-mode-only">
-<img align="left" width="30" alt="nextjs" style="padding-right:10px;" src="https://cdn.simpleicons.org/next.js/black#gh-light-mode-only" />
-</a>
-
 <img align="left" width="30" alt="astro" style="padding-right:10px;" src="https://cdn.simpleicons.org/solid" />
 <img align="left" width="30" alt="astro" style="padding-right:10px;" src="https://cdn.simpleicons.org/astro" />
-<img align="left" width="30" alt="nodejs" style="padding-right:10px;" src="https://cdn.simpleicons.org/node.js" />
+<img align="left" width="30" alt="astro" style="padding-right:10px;" src="https://cdn.simpleicons.org/flutter" />
 <img align="left" width="30" alt="tailwindcss" style="padding-right:10px;" src="https://cdn.simpleicons.org/tailwindcss" />
-
 <a href="https://nextui.org/#gh-dark-mode-only">
 <img align="left" width="30" alt="nextui" style="padding-right:10px;" src="https://cdn.simpleicons.org/nextui/white#gh-dark-mode-only" />
 </a>
 <a href="https://nextui.org#gh-light-mode-only">
 <img align="left" width="30" alt="nextui" style="padding-right:10px;" src="https://cdn.simpleicons.org/nextui#gh-light-mode-only" />
 </a>
+<img align="left" width="30" alt="sass" style="padding-right:10px;" src="https://cdn.simpleicons.org/sass" />
+<img align="left" width="30" alt="bootstrap" style="padding-right:10px;" src="https://cdn.simpleicons.org/bootstrap" />
+<img align="left" width="30" alt="redux" style="padding-right:10px;" src="https://cdn.simpleicons.org/redux" />
+</br>
 
-<img align="left" width="30" alt="scss" style="padding-right:10px;" src="https://cdn.simpleicons.org/sass" />
-<img align="left" width="30" alt="material-ui" style="padding-right:10px;" src="https://cdn.simpleicons.org/mui" />
-<br/>
-<br/>
-
-### 🗄️ Databases, CMS, and cloud hosting
+### Back-End & Database:
 ---
+<a href="https://nextjs.org#gh-dark-mode-only">
+<img align="left" width="30" alt="nextjs" style="padding-right:10px;" src="https://cdn.simpleicons.org/next.js/white#gh-dark-mode-only" />
+</a>
+<a href="https://nextjs.org#gh-light-mode-only">
+<img align="left" width="30" alt="nextjs" style="padding-right:10px;" src="https://cdn.simpleicons.org/next.js/black#gh-light-mode-only" />
+</a>
+<img align="left" width="30" alt="nodejs" style="padding-right:10px;" src="https://cdn.simpleicons.org/node.js" />
+<a href="https://expressjs.com#gh-dark-mode-only">
+<img align="left" width="30" alt="express" style="padding-right:10px;" src="https://cdn.simpleicons.org/express/white#gh-light-mode-only" />
+</a>
+<a href="https://expressjs.com#gh-light-mode-only">
+<img align="left" width="30" alt="express" style="padding-right:10px;" src="https://cdn.simpleicons.org/express/black#gh-light-mode-only" />
+</a>
+<img align="left" width="30" alt="mysql" style="padding-right:10px;" src="https://cdn.simpleicons.org/laravel" />
 <img align="left" width="30" alt="mysql" style="padding-right:10px;" src="https://cdn.simpleicons.org/mysql/#4479A1" />
 <img align="left" width="30" alt="postgresql" style="padding-right:10px;" src="https://cdn.simpleicons.org/postgresql/#4169E1" />
 <img align="left" width="30" alt="mongoDb" style="padding-right:10px;" src="https://cdn.simpleicons.org/mongodb/#47A248" />
-<img align="left" width="30" alt="replit" style="padding-right:10px;" src="https://cdn.simpleicons.org/netlify/#F26207" />
+<img align="left" width="30" alt="mongoDb" style="padding-right:10px;" src="https://cdn.simpleicons.org/graphql" />
 
-<a href="https://vercel.com#gh-dark-mode-only">
-<img align="left" width="30" alt="vercel" style="padding-right:10px;" src="https://cdn.simpleicons.org/vercel/white#gh-dark-mode-only" />
-</a>
-<a href="https://vercel.com#gh-light-mode-only">
-<img align="left" width="30" alt="vercel" style="padding-right:10px;" src="https://cdn.simpleicons.org/vercel/black#gh-light-mode-only" />
-</a>
+</br>
 
-<a href="https://www.squarespace.com/#gh-dark-mode-only">
-<img align="left" width="30" alt="squarespace" style="padding-right:10px;" src="https://cdn.simpleicons.org/squarespace/white#gh-dark-mode-only" />
-</a>
-<a href="https://www.squarespace.com/#gh-light-mode-only">
-<img align="left" width="30" alt="squarespace" style="padding-right:10px;" src="https://cdn.simpleicons.org/squarespace/black#gh-light-mode-only" />
-</a>
-
-<a href="https://wordpress.com#gh-dark-mode-only">
-<img align="left" width="30" alt="wordpress" style="padding-right:10px;" src="https://cdn.simpleicons.org/wordpress/white#gh-dark-mode-only" />
-</a>
-<a href="https://wordpress.com#gh-light-mode-only">
-<img align="left" width="30" alt="wordpress" style="padding-right:10px;" src="https://cdn.simpleicons.org/wordpress/black#gh-light-mode-only" />
-</a>
-
-<a href="https://www.notion.so/#gh-dark-mode-only">
-<img align="left" width="30" alt="notion" style="padding-right:10px;" 
-src="https://cdn.simpleicons.org/notion/white#gh-dark-mode-only" />
-</a>
-<a href="https://www.notion.so/#gh-light-mode-only">
-<img align="left" width="30" alt="notion" style="padding-right:10px;" 
-src="https://cdn.simpleicons.org/notion/black#gh-light-mode-only" />
-</a>
-<br/>
-<br/>
-
-### 💻 Software and tools
+### Tools:
 ---
 <img align="left" width="30" alt="linux" style="padding-right:10px;" src="https://cdn.simpleicons.org/linux" />
 <img align="left" width="30" alt="archlinux" style="padding-right:10px;" src="https://cdn.simpleicons.org/archlinux/#1793D1" />
-
 <a href="https://www.microsoft.com/en-us/#gh-dark-mode-only">
 <img align="left" width="30" alt="microsoft" style="padding-right:10px;" src="https://cdn.simpleicons.org/microsoft/white#gh-dark-mode-only" />
 </a>
 <a href="https://www.microsoft.com/en-us/#gh-light-mode-only">
 <img align="left" width="30" alt="microsoft" style="padding-right:10px;" src="https://cdn.simpleicons.org/microsoft/black#gh-light-mode-only" />
 </a>
-
 <img align="left" width="30" alt="neovim" style="padding-right:10px;" src="https://cdn.simpleicons.org/neovim/#57A143" />
-<img align="left" width="30" alt="git" style="padding-right:10px;" src="https://cdn.simpleicons.org/git/#F05032" />
-
 <a href="https://www.github.com#gh-dark-mode-only">
 <img align="left" width="30" alt="github" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/white#gh-dark-mode-only" />
 </a>
 <a href="https://www.github.com#gh-light-mode-only">
 <img align="left" width="30" alt="github" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/black#gh-light-mode-only" />
 </a>
-
-
-<img align="left" width="30" alt="adobe" style="padding-right:10px;" src="https://cdn.simpleicons.org/adobe/#FF0000" />
-
-<a href="https://www.gimp.org#gh-dark-mode-only">
-<img align="left" width="30" alt="gimp" style="padding-right:10px;" src="https://cdn.simpleicons.org/gimp/white#gh-dark-mode-only" />
-</a>
-<a href="https://www.gimp.org#gh-light-mode-only">
-<img align="left" width="30" alt="gimp" style="padding-right:10px;" src="https://cdn.simpleicons.org/gimp/black#gh-light-mode-only" />
-</a>
-
-<a href="https://www.inkscape.org#gh-dark-mode-only">
-<img align="left" width="30" alt="inkscape" style="padding-right:10px;" src="https://cdn.simpleicons.org/inkscape/white#gh-dark-mode-only" />
-</a>
-<a href="https://www.inkscape.org#gh-light-mode-only">
-<img align="left" width="30" alt="inkscape" style="padding-right:10px;" src="https://cdn.simpleicons.org/inkscape/black#gh-light-mode-only" />
-</a>
-
-
-
-<img align="left" width="30" alt="firefox" style="padding-right:10px;" src="https://cdn.simpleicons.org/firefox/#5865F2" />
-<img align="left" width="30" alt="brave" style="padding-right:10px;" src="https://cdn.simpleicons.org/brave/#FB542B" />
-<img align="left" width="30" alt="slack" style="padding-right:10px;" src="https://cdn.simpleicons.org/slack/#5865F2" />
-
+<img align="left" width="30" alt="archlinux" style="padding-right:10px;" src="https://cdn.simpleicons.org/amazonaws/#FF9909" />
+<img align="left" width="30" alt="archlinux" style="padding-right:10px;" src="https://cdn.simpleicons.org/googlecloud" />
+<img align="left" width="30" alt="archlinux" style="padding-right:10px;" src="https://cdn.simpleicons.org/figma" />
+<img align="left" width="30" alt="archlinux" style="padding-right:10px;" src="https://cdn.simpleicons.org/adobeillustrator" />
+</br>
 
 <br/> 
 <br/>
