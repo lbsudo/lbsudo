@@ -117,7 +117,6 @@
 <a href="https://expressjs.com#gh-light-mode-only">
 <img align="left" width="30" alt="express" style="padding-right:10px;" src="https://cdn.simpleicons.org/express/black#gh-light-mode-only" />
 </a>
-<img align="left" width="30" alt="mysql" style="padding-right:10px;" src="https://cdn.simpleicons.org/laravel" />
 <img align="left" width="30" alt="mysql" style="padding-right:10px;" src="https://cdn.simpleicons.org/mysql/#4479A1" />
 <img align="left" width="30" alt="postgresql" style="padding-right:10px;" src="https://cdn.simpleicons.org/postgresql/#4169E1" />
 <img align="left" width="30" alt="mongoDb" style="padding-right:10px;" src="https://cdn.simpleicons.org/mongodb/#47A248" />
