@@ -186,7 +186,7 @@
 <details>
   <summary>⚡Dev Card</summary>
 <p align="left">
-<a href="https://app.daily.dev/lbsudo"><img src="https://github.com/lbsudo/lbsudo/blob/main/devcard.svg" width="400" alt="Lawrence Brown's Dev Card"/></a>
+<a href="https://app.daily.dev/lbsudo"><img src="https://api.daily.dev/devcards/v2/cAeoiL0VUxXQhEGePluN4.png?type=default&r=s3l" width="356" alt="Lawrence Brown's Dev Card"/></a>
 </p>
 </details>
 
